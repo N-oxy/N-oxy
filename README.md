@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @N-oxy
-- 👀 I’m interested in Gamedev and Pentesting
-- 🌱 I’m currently learning Python, C, C#, SQL, Linux, Unity
+- I'm a MEL specialist
 
 <!---
 N-oxy/N-oxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
